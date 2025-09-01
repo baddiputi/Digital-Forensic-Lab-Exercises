@@ -45,7 +45,7 @@ To capture RAM data and create a forensic disk image using FTK Imager.
 
 **Step-5:** A progress bar in green colour will indicate the capture status. The time taken to capture RAM depends on the system’s RAM size. After completion, the captured memory file will be available in the chosen destination folder.  
 
-![Step 5](images/exp1-ram-step5.png)
+![(images/exp1-ram-step5.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/a68fa1804f0037d81615f5246641cf397bafce5e/images/WhatsApp%20Image%202025-09-01%20at%2015.03.33.jpeg)
 
 ---
 

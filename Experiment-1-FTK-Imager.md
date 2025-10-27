@@ -86,7 +86,8 @@ To capture RAM data and create a forensic disk image using FTK Imager.
 
 FTK Imager will display progress along with hash values. The imaging process may take time depending on the drive size. After completion, FTK Imager verifies the hash values automatically to maintain forensic integrity. Finally, the hash values should match.  
 
----
+## Result
+Evidence was successfully acquired from both volatile and non-volatile memory using FTK Imager.  
+The generated forensic image and verified hash values confirm the **integrity and reliability** of the acquired data.
 
-  
 

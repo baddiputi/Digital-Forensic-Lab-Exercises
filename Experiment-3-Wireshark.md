@@ -69,3 +69,8 @@ As you analyze the HTML form in POST requests, you can view user credentials (e.
 Example:  
 - Form item: "uname" = "venkat"
 - Form item: "pass" = "1234"
+
+### Result: 
+
+The experiment was able to capture and view login credentials in plain text. By analyzing the POST packet, the transmitted data could be clearly seen.
+This proves the weakness of the HTTP protocol, as it sends sensitive information without encryption, making it easy for attackers to intercept.

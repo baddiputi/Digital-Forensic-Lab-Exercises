@@ -127,3 +127,7 @@ Ensure all evidence and reports are securely managed to maintain integrity and f
     * Use a secure, verifiable method to **archive** the original disk image and the analysis results.
 2.  **Store Securely:**
     * Store the archived data in a secure location, strictly adhering to the **chain of custody** procedures.
+
+**Result**
+
+The Sleuth Kit experiment successfully analyzed the provided .E01 disk image — partitions and file system structure were identified, deleted files were recovered (using fls/icat), and detailed file metadata was extracted (fsstat/istat). A timeline was generated with mactime to reconstruct file activity, and all outputs were archived with hashes to preserve evidence integrity.

@@ -89,10 +89,8 @@ domain
 
 ---
 
-## Expected Output
-- The Mail Header Analyzer highlights key email header fields.  
-- Authentication checks (SPF/DKIM/DMARC) show whether the email is genuine or spoofed.  
-- Suspicious IP addresses or mismatched hostnames can be identified.  
-- Email spoofing or phishing attempts are detected.  
+**Result:**
+
+This experiment demonstrates how to analyze an email header to trace sender details, verify authentication (SPF, DKIM, DMARC), and detect phishing or spoofing attempts. It ensures better email security by identifying suspicious servers, domains, or tampered content.
 
 ---

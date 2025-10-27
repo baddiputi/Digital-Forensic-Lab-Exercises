@@ -74,4 +74,10 @@ To recover lost partitions and deleted files using TestDisk.
 
 ---
 
+## Result :
 
+The experiment successfully demonstrated the recovery of deleted or damaged files using TestDisk.
+Lost partitions were detected and restored.
+Corrupted NTFS boot sector was repaired using the backup.
+File system was made accessible again after partition table recovery.
+Hence, recovery of lost data from a storage device was achieved.

@@ -102,11 +102,9 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 
 ---
 
-## Expected Output
-- Autopsy case created and evidence successfully imported.  
-- Artifacts extracted and analyzed (files, metadata, timeline, keywords, hashes).  
-- Reports generated in the chosen format (HTML, CSV, Excel).  
-- Investigation closed with properly archived case files.  
+## Result
+
+The experiment successfully demonstrated the use of Autopsy for creating a case, importing evidence, analyzing digital artifacts, and generating reports, thereby validating its effectiveness as a digital forensic investigation tool.
 
 ---
 

@@ -100,3 +100,7 @@
 ### 8. Review the Results
 
 * Review the scores generated for each image and use the threshold values to determine which images require further forensic investigation to extract the suspected hidden data.
+
+**Result:**
+
+The hidden data within the image was successfully detected using StegExpose. The analysis revealed that images with a suspect score above the threshold likely contain embedded steganographic content, confirming the tool’s effectiveness in steganography detection.

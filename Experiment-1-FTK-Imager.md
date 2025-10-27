@@ -2,7 +2,7 @@
 # Experiment-1: Evidence Acquisition Using FTK Imager
 
 **Course / Lab:** Digital Forensics Lab  
-**Experiment No.:** 1  
+**Experiment No.:** 1 
 **Title:** Evidence Acquisition Using FTK Imager  
 
 ---

@@ -64,7 +64,7 @@
 
 ![images/exp1-disk-step1.png](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/de2d7c56c138c87d4745d2dbaf512dc4e2beaedc/images/7.12.jpeg)
 
-![images/exp1-disk-step1.png](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/de2d7c56c138c87d4745d2dbaf512dc4e2beaedc/images/7.11.jpeg)
+
 
 ---
 
